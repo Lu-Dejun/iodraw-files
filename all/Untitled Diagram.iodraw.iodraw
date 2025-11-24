@@ -54,7 +54,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-148" value="publisher.stg.g123.jp" style="" vertex="1" parent="1lQ-2F_arc89EmAmltaY-38">
-          <mxGeometry x="75" y="630" width="110" height="30" as="geometry" />
+          <mxGeometry x="70" y="630" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-149" value="game-cloud.dev.g123.jp&#xa;access-tool.stg.g123.jp" style="labelBackgroundColor=none;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-38">
           <mxGeometry x="60" y="700" width="140" height="50" as="geometry" />
