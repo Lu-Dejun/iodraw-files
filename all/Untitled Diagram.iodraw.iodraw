@@ -74,8 +74,8 @@
         <mxCell id="1lQ-2F_arc89EmAmltaY-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lQ-2F_arc89EmAmltaY-78" target="1lQ-2F_arc89EmAmltaY-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1245" y="260" />
-              <mxPoint x="405" y="260" />
+              <mxPoint x="1245" y="240" />
+              <mxPoint x="405" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
