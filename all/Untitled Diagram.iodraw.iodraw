@@ -202,7 +202,7 @@
         <mxCell id="1lQ-2F_arc89EmAmltaY-95" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="360" y="90" width="110" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-33" value="hotfix/" style="dashed=1;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-95">
+        <mxCell id="1lQ-2F_arc89EmAmltaY-33" value="hotfix/" style="dashed=1;strokeColor=#B3B3B3;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-95">
           <mxGeometry width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-35" value="feature/" style="" vertex="1" parent="1lQ-2F_arc89EmAmltaY-95">
