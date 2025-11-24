@@ -7,14 +7,6 @@
         <mxCell id="1lQ-2F_arc89EmAmltaY-29" value="Thread 1" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="290" y="30" width="280" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-30" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-29">
-          <mxGeometry x="100" y="40" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-31" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="1lQ-2F_arc89EmAmltaY-29" source="1lQ-2F_arc89EmAmltaY-30" target="1lQ-2F_arc89EmAmltaY-32">
-          <mxGeometry x="100" y="40" as="geometry">
-            <mxPoint x="115" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-32" value="idle" style="" vertex="1" parent="1lQ-2F_arc89EmAmltaY-29">
           <mxGeometry x="60" y="110" width="110" height="50" as="geometry" />
         </mxCell>
