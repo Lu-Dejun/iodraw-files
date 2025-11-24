@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1lQ-2F_arc89EmAmltaY-29" value="开发" style="swimlane;whiteSpace=wrap;dashed=1;dashPattern=12 12;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="290" y="40" width="280" height="850" as="geometry" />
+          <mxGeometry x="290" y="30" width="280" height="850" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-117" value="1. 后端API域名改变&lt;div&gt;2. 本地token和stg共用&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-29">
           <mxGeometry x="20" y="560" width="200" height="30" as="geometry" />
