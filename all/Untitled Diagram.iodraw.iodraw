@@ -196,7 +196,7 @@
         <mxCell id="1lQ-2F_arc89EmAmltaY-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.304;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1lQ-2F_arc89EmAmltaY-76" source="1lQ-2F_arc89EmAmltaY-156" target="1lQ-2F_arc89EmAmltaY-165">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-168" value="test" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-76">
+        <mxCell id="1lQ-2F_arc89EmAmltaY-168" value="normal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-76">
           <mxGeometry x="190" y="660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-95" value="" style="group" vertex="1" connectable="0" parent="1">
