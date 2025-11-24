@@ -68,16 +68,6 @@
         <mxCell id="1lQ-2F_arc89EmAmltaY-83" value="Tag" style="" vertex="1" parent="1lQ-2F_arc89EmAmltaY-76">
           <mxGeometry x="60" y="420" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lQ-2F_arc89EmAmltaY-75" target="1lQ-2F_arc89EmAmltaY-35">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="685" y="375" />
-              <mxPoint x="685" y="425" />
-              <mxPoint x="400" y="425" />
-              <mxPoint x="400" y="405" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
