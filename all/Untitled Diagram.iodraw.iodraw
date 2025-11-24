@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1lQ-2F_arc89EmAmltaY-29" value="开发" style="swimlane;whiteSpace=wrap;dashed=1;dashPattern=12 12;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="290" y="30" width="280" height="570" as="geometry" />
+          <mxGeometry x="290" y="30" width="280" height="850" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-38" value="测试" style="swimlane;whiteSpace=wrap;container=0;dashed=1;dashPattern=12 12;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="570" y="30" width="280" height="570" as="geometry" />
+          <mxGeometry x="570" y="30" width="280" height="850" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-96" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=12 12;strokeColor=#66B2FF;" edge="1" parent="1lQ-2F_arc89EmAmltaY-38">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-64" value="" style="swimlane;whiteSpace=wrap;dashed=1;dashPattern=12 12;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="130" y="30" width="160" height="730" as="geometry" />
+          <mxGeometry x="130" y="30" width="160" height="850" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-73" value="原分支管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-64">
           <mxGeometry x="35" y="130" width="90" height="30" as="geometry" />
