@@ -57,7 +57,24 @@
             <mxPoint x="80" y="290.34285714285716" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1lQ-2F_arc89EmAmltaY-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1lQ-2F_arc89EmAmltaY-76" source="1lQ-2F_arc89EmAmltaY-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-78" value="master-v2" style="" vertex="1" parent="1lQ-2F_arc89EmAmltaY-76">
+          <mxGeometry x="60" y="320" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1lQ-2F_arc89EmAmltaY-80" value="Thread 3" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="870" y="50" width="280" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="1lQ-2F_arc89EmAmltaY-81" value="" style="edgeStyle=none;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0" edge="1" parent="1lQ-2F_arc89EmAmltaY-80">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-40" y="290" as="sourcePoint" />
+            <mxPoint x="80" y="290.34285714285716" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lQ-2F_arc89EmAmltaY-82" value="develop-v2" style="" vertex="1" parent="1lQ-2F_arc89EmAmltaY-80">
           <mxGeometry x="60" y="320" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
