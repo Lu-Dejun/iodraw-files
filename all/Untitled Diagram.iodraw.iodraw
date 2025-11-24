@@ -134,6 +134,23 @@
         <mxCell id="1lQ-2F_arc89EmAmltaY-119" value="1. 原develop分支去除&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%221.%20deploy%2Fstaging%20-%26amp%3Bgt%3B%20deploy%2Fdev%26lt%3Bdiv%26gt%3B2.%20CD%E6%94%B9%E5%8F%98%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22600%22%20y%3D%22600%22%20width%3D%22200%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;div&gt;2. develop-v2 -&amp;gt; develop；CD保持&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-57">
           <mxGeometry x="30" y="570" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1lQ-2F_arc89EmAmltaY-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1lQ-2F_arc89EmAmltaY-57" source="1lQ-2F_arc89EmAmltaY-152" target="1lQ-2F_arc89EmAmltaY-153">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="700" />
+              <mxPoint x="130" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lQ-2F_arc89EmAmltaY-152" value="publisher.dev.g123.jp" style="" vertex="1" parent="1lQ-2F_arc89EmAmltaY-57">
+          <mxGeometry x="70" y="630" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1lQ-2F_arc89EmAmltaY-153" value="game-cloud.dev.g123.jp&#xa;access-tool.stg.g123.jp" style="labelBackgroundColor=none;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-57">
+          <mxGeometry x="60" y="700" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1lQ-2F_arc89EmAmltaY-154" value="test/normal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-57">
+          <mxGeometry x="135" y="666" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-64" value="" style="swimlane;whiteSpace=wrap;dashed=1;dashPattern=12 12;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="130" y="30" width="160" height="850" as="geometry" />
         </mxCell>
@@ -220,23 +237,6 @@
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lQ-2F_arc89EmAmltaY-75" target="1lQ-2F_arc89EmAmltaY-78">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1lQ-2F_arc89EmAmltaY-152" target="1lQ-2F_arc89EmAmltaY-153">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="710" y="740" />
-              <mxPoint x="710" y="740" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-152" value="publisher.dev.g123.jp" style="" vertex="1" parent="1">
-          <mxGeometry x="650" y="670" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-153" value="game-cloud.dev.g123.jp&#xa;access-tool.stg.g123.jp" style="labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="640" y="740" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-154" value="test/normal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="715" y="706" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
