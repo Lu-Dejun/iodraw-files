@@ -28,20 +28,11 @@
         <mxCell id="1lQ-2F_arc89EmAmltaY-57" value="Thread 3" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="850" y="30" width="280" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-58" value="process&#xa;command" style="" vertex="1" parent="1lQ-2F_arc89EmAmltaY-57">
-          <mxGeometry x="90" y="405" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-60" value="" style="edgeStyle=none;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0" edge="1" parent="1lQ-2F_arc89EmAmltaY-57" target="1lQ-2F_arc89EmAmltaY-58">
+        <mxCell id="1lQ-2F_arc89EmAmltaY-60" value="" style="edgeStyle=none;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0" edge="1" parent="1lQ-2F_arc89EmAmltaY-57">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-30" y="429.5" as="sourcePoint" />
-            <mxPoint x="90" y="429.5" as="targetPoint" />
+            <mxPoint x="-40" y="290" as="sourcePoint" />
+            <mxPoint x="80" y="290.34285714285716" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-61" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" vertex="1" parent="1lQ-2F_arc89EmAmltaY-57">
-          <mxGeometry x="130" y="500" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-62" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="1lQ-2F_arc89EmAmltaY-57" source="1lQ-2F_arc89EmAmltaY-58" target="1lQ-2F_arc89EmAmltaY-61">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-63" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="1" source="1lQ-2F_arc89EmAmltaY-35">
           <mxGeometry relative="1" as="geometry">
