@@ -7,13 +7,8 @@
         <mxCell id="1lQ-2F_arc89EmAmltaY-29" value="开发" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="290" y="30" width="280" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-33" value="user action" style="" vertex="1" parent="1lQ-2F_arc89EmAmltaY-29">
+        <mxCell id="1lQ-2F_arc89EmAmltaY-33" value="hotfix" style="" vertex="1" parent="1lQ-2F_arc89EmAmltaY-29">
           <mxGeometry x="60" y="250" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-34" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="1lQ-2F_arc89EmAmltaY-29" target="1lQ-2F_arc89EmAmltaY-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="115" y="160" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-35" value="feature" style="" vertex="1" parent="1lQ-2F_arc89EmAmltaY-29">
           <mxGeometry x="60" y="325" width="110" height="50" as="geometry" />
