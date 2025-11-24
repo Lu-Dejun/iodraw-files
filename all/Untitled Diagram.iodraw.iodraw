@@ -91,12 +91,6 @@
             <mxPoint x="-260" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1lQ-2F_arc89EmAmltaY-57" source="1lQ-2F_arc89EmAmltaY-104" target="1lQ-2F_arc89EmAmltaY-105">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-104" value="master" style="" vertex="1" parent="1lQ-2F_arc89EmAmltaY-57">
-          <mxGeometry x="340" y="405" width="110" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-105" value="Tag" style="" vertex="1" parent="1lQ-2F_arc89EmAmltaY-57">
           <mxGeometry x="340" y="480" width="110" height="50" as="geometry" />
         </mxCell>
@@ -109,27 +103,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1lQ-2F_arc89EmAmltaY-57" source="1lQ-2F_arc89EmAmltaY-104" target="1lQ-2F_arc89EmAmltaY-98">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="395" y="310" />
-              <mxPoint x="-445" y="310" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1lQ-2F_arc89EmAmltaY-57" source="1lQ-2F_arc89EmAmltaY-98" target="1lQ-2F_arc89EmAmltaY-101">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1lQ-2F_arc89EmAmltaY-57" source="1lQ-2F_arc89EmAmltaY-98" target="1lQ-2F_arc89EmAmltaY-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1lQ-2F_arc89EmAmltaY-57" source="1lQ-2F_arc89EmAmltaY-100" target="1lQ-2F_arc89EmAmltaY-101">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="430" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1lQ-2F_arc89EmAmltaY-57" source="1lQ-2F_arc89EmAmltaY-101" target="1lQ-2F_arc89EmAmltaY-104">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-113" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#66B2FF;" edge="1" parent="1lQ-2F_arc89EmAmltaY-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -214,6 +194,9 @@
         <mxCell id="1lQ-2F_arc89EmAmltaY-173" value="1. 上线记录 @FE&lt;div&gt;2. 线上回归 @QA&lt;/div&gt;&lt;div&gt;3. 线上复验 @PM @FE @UI&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-76">
           <mxGeometry x="30" y="790" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1lQ-2F_arc89EmAmltaY-104" value="master" style="" vertex="1" parent="1lQ-2F_arc89EmAmltaY-76">
+          <mxGeometry x="70" y="405" width="110" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-95" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="360" y="90" width="110" height="125" as="geometry" />
         </mxCell>
@@ -273,6 +256,23 @@
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lQ-2F_arc89EmAmltaY-75" target="1lQ-2F_arc89EmAmltaY-78">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lQ-2F_arc89EmAmltaY-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lQ-2F_arc89EmAmltaY-104" target="1lQ-2F_arc89EmAmltaY-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lQ-2F_arc89EmAmltaY-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lQ-2F_arc89EmAmltaY-101" target="1lQ-2F_arc89EmAmltaY-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lQ-2F_arc89EmAmltaY-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1" source="1lQ-2F_arc89EmAmltaY-98" target="1lQ-2F_arc89EmAmltaY-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lQ-2F_arc89EmAmltaY-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1" source="1lQ-2F_arc89EmAmltaY-104" target="1lQ-2F_arc89EmAmltaY-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1245" y="340" />
+              <mxPoint x="405" y="340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
