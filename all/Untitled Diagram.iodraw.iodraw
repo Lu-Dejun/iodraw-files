@@ -14,7 +14,7 @@
           <mxGeometry x="90" y="630" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-143" value="game-cloud.dev.g123.jp&#xa;access-tool.stg.g123.jp" style="labelBackgroundColor=none;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-29">
-          <mxGeometry x="20" y="695" width="140" height="50" as="geometry" />
+          <mxGeometry x="10" y="700" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-38" value="测试" style="swimlane;whiteSpace=wrap;container=0;dashed=1;dashPattern=12 12;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="570" y="30" width="280" height="850" as="geometry" />
