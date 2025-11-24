@@ -22,13 +22,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-142" value="localhost" style="" vertex="1" parent="1lQ-2F_arc89EmAmltaY-29">
-          <mxGeometry x="90" y="630" width="110" height="30" as="geometry" />
+          <mxGeometry x="89" y="630" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-143" value="publisher.dev.g123.jp/api&#xa;access-tool.stg.g123.jp" style="labelBackgroundColor=none;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-29">
-          <mxGeometry x="75" y="700" width="140" height="50" as="geometry" />
+          <mxGeometry x="74" y="700" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-146" value="test/normal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-29">
-          <mxGeometry x="150" y="666" width="60" height="30" as="geometry" />
+          <mxGeometry x="149" y="666" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-170" value="1. 开发/移动端适配 @FE&lt;div&gt;2. 测试用例 @QA&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-29">
           <mxGeometry x="30" y="790" width="200" height="30" as="geometry" />
@@ -276,12 +276,6 @@
               <mxPoint x="405" y="340" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-175" value="localhost" style="" vertex="1" parent="1">
-          <mxGeometry x="380" y="770" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1lQ-2F_arc89EmAmltaY-142" target="1lQ-2F_arc89EmAmltaY-175">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
