@@ -157,7 +157,7 @@
         <mxCell id="1lQ-2F_arc89EmAmltaY-154" value="test/normal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-57">
           <mxGeometry x="135" y="666" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-172" value="1. 测试问题修复 @FE&lt;div&gt;2. 回归测试 @QA&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-57">
+        <mxCell id="1lQ-2F_arc89EmAmltaY-172" value="1. 测试问题修复，上线准备 @FE&lt;div&gt;2. 回归测试 @QA&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-57">
           <mxGeometry x="30" y="790" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-64" value="" style="swimlane;whiteSpace=wrap;dashed=1;dashPattern=12 12;strokeColor=#B3B3B3;" vertex="1" parent="1">
