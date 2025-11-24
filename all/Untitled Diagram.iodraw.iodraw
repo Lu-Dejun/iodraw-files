@@ -190,7 +190,12 @@
           <mxGeometry x="65" y="630" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-157" value="game-cloud.dev.g123.jp&#xa;access-tool.stg.g123.jp" style="labelBackgroundColor=none;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-76">
-          <mxGeometry x="55" y="700" width="140" height="50" as="geometry" />
+          <mxGeometry x="5" y="700" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1lQ-2F_arc89EmAmltaY-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1lQ-2F_arc89EmAmltaY-76" source="1lQ-2F_arc89EmAmltaY-158">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="674" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-158" value="test/normal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-76">
           <mxGeometry x="130" y="666" width="60" height="30" as="geometry" />
