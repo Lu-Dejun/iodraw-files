@@ -66,7 +66,7 @@
           <mxGeometry x="135" y="666" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-171" value="1. 走查测试问题修复 @FE&lt;div&gt;2. 功能测试、集成测试 @QA @PM&lt;/div&gt;&lt;div&gt;3. UI/UE走查，移动端检查 @UI @PM&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-38">
-          <mxGeometry x="30" y="790" width="200" height="30" as="geometry" />
+          <mxGeometry x="30" y="790" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-57" value="预发布" style="swimlane;whiteSpace=wrap;dashed=1;dashPattern=12 12;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="850" y="30" width="280" height="850" as="geometry" />
