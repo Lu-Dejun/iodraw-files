@@ -85,6 +85,9 @@
         <mxCell id="1lQ-2F_arc89EmAmltaY-73" value="原分支管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-64">
           <mxGeometry x="35" y="130" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1lQ-2F_arc89EmAmltaY-112" value="原分支管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-64">
+          <mxGeometry x="35" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-76" value="生产" style="swimlane;whiteSpace=wrap;dashed=1;dashPattern=12 12;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="1130" y="30" width="280" height="570" as="geometry" />
         </mxCell>
