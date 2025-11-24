@@ -11,7 +11,12 @@
           <mxGeometry x="20" y="570" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1lQ-2F_arc89EmAmltaY-29" source="1lQ-2F_arc89EmAmltaY-142" target="1lQ-2F_arc89EmAmltaY-143">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="145" y="700" />
+              <mxPoint x="145" y="700" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-142" value="localhost" style="" vertex="1" parent="1lQ-2F_arc89EmAmltaY-29">
           <mxGeometry x="90" y="630" width="110" height="30" as="geometry" />
@@ -195,6 +200,9 @@
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lQ-2F_arc89EmAmltaY-75" target="1lQ-2F_arc89EmAmltaY-78">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lQ-2F_arc89EmAmltaY-146" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="640" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
