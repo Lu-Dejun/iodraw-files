@@ -25,7 +25,7 @@
           <mxGeometry x="75" y="700" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-146" value="Test/Normal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-29">
-          <mxGeometry x="150" y="670" width="60" height="30" as="geometry" />
+          <mxGeometry x="150" y="666" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-38" value="测试" style="swimlane;whiteSpace=wrap;container=0;dashed=1;dashPattern=12 12;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="570" y="30" width="280" height="850" as="geometry" />
