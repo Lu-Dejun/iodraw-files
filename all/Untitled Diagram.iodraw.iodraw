@@ -115,6 +115,12 @@
         <mxCell id="1lQ-2F_arc89EmAmltaY-139" value="域名" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-64">
           <mxGeometry x="35" y="640" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1lQ-2F_arc89EmAmltaY-140" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=12 12;strokeColor=#66B2FF;" edge="1" parent="1lQ-2F_arc89EmAmltaY-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="690" as="sourcePoint" />
+            <mxPoint x="1282" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-76" value="生产" style="swimlane;whiteSpace=wrap;dashed=1;dashPattern=12 12;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="1130" y="30" width="280" height="850" as="geometry" />
         </mxCell>
