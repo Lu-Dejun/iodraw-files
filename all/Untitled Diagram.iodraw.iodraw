@@ -7,12 +7,6 @@
         <mxCell id="1lQ-2F_arc89EmAmltaY-29" value="开发" style="swimlane;whiteSpace=wrap;dashed=1;dashPattern=12 12;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="290" y="30" width="280" height="850" as="geometry" />
         </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-114" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=12 12;strokeColor=#66B2FF;" edge="1" parent="1lQ-2F_arc89EmAmltaY-29">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-162" y="640" as="sourcePoint" />
-            <mxPoint x="1120" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-38" value="测试" style="swimlane;whiteSpace=wrap;container=0;dashed=1;dashPattern=12 12;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="570" y="30" width="280" height="850" as="geometry" />
         </mxCell>
@@ -20,6 +14,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-440" y="280" as="sourcePoint" />
             <mxPoint x="842" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lQ-2F_arc89EmAmltaY-114" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=12 12;strokeColor=#66B2FF;" edge="1" parent="1lQ-2F_arc89EmAmltaY-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-442" y="620" as="sourcePoint" />
+            <mxPoint x="840" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-57" value="预发布" style="swimlane;whiteSpace=wrap;dashed=1;dashPattern=12 12;strokeColor=#B3B3B3;" vertex="1" parent="1">
