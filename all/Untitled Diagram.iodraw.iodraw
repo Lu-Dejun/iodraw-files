@@ -10,14 +10,11 @@
         <mxCell id="1lQ-2F_arc89EmAmltaY-117" value="1. 后端API域名改变&lt;div&gt;2. 本地token和stg共用&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-29">
           <mxGeometry x="20" y="570" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-141" value="" style="group" vertex="1" connectable="0" parent="1lQ-2F_arc89EmAmltaY-29">
-          <mxGeometry x="60" y="630" width="110" height="125" as="geometry" />
+        <mxCell id="1lQ-2F_arc89EmAmltaY-142" value="localhost" style="" vertex="1" parent="1lQ-2F_arc89EmAmltaY-29">
+          <mxGeometry x="30" y="620" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-142" value="localhost" style="" vertex="1" parent="1lQ-2F_arc89EmAmltaY-141">
-          <mxGeometry width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-143" value="game-cloud.dev.g123.jp" style="labelBackgroundColor=none;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-141">
-          <mxGeometry y="75" width="110" height="50" as="geometry" />
+        <mxCell id="1lQ-2F_arc89EmAmltaY-143" value="game-cloud.dev.g123.jp" style="labelBackgroundColor=none;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-29">
+          <mxGeometry x="30" y="695" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-38" value="测试" style="swimlane;whiteSpace=wrap;container=0;dashed=1;dashPattern=12 12;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="570" y="30" width="280" height="850" as="geometry" />
