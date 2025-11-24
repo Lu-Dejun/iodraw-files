@@ -100,8 +100,8 @@
         <mxCell id="1lQ-2F_arc89EmAmltaY-112" value="分支管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-64">
           <mxGeometry x="35" y="400" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-116" value="分支管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-64">
-          <mxGeometry x="40" y="580" width="90" height="30" as="geometry" />
+        <mxCell id="1lQ-2F_arc89EmAmltaY-116" value="变化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1lQ-2F_arc89EmAmltaY-64">
+          <mxGeometry x="35" y="580" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-76" value="生产" style="swimlane;whiteSpace=wrap;dashed=1;dashPattern=12 12;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="1130" y="30" width="280" height="850" as="geometry" />
