@@ -204,6 +204,23 @@
         <mxCell id="1lQ-2F_arc89EmAmltaY-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lQ-2F_arc89EmAmltaY-75" target="1lQ-2F_arc89EmAmltaY-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1lQ-2F_arc89EmAmltaY-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1lQ-2F_arc89EmAmltaY-148" target="1lQ-2F_arc89EmAmltaY-149">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="445" y="740" />
+              <mxPoint x="445" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lQ-2F_arc89EmAmltaY-148" value="localhost" style="" vertex="1" parent="1">
+          <mxGeometry x="390" y="670" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1lQ-2F_arc89EmAmltaY-149" value="game-cloud.dev.g123.jp&#xa;access-tool.stg.g123.jp" style="labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="740" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1lQ-2F_arc89EmAmltaY-150" value="test/normal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="706" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
