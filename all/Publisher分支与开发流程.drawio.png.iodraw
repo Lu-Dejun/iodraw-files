@@ -243,12 +243,13 @@
         <mxCell id="1lQ-2F_arc89EmAmltaY-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1" source="1lQ-2F_arc89EmAmltaY-98" target="1lQ-2F_arc89EmAmltaY-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" edge="1" parent="1" source="1lQ-2F_arc89EmAmltaY-104">
+        <mxCell id="1lQ-2F_arc89EmAmltaY-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lQ-2F_arc89EmAmltaY-104" target="1lQ-2F_arc89EmAmltaY-98">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1255" y="320" />
               <mxPoint x="410" y="320" />
               <mxPoint x="410" y="350" />
+              <mxPoint x="415" y="350" />
             </Array>
             <mxPoint x="420" y="350" as="targetPoint" />
           </mxGeometry>
