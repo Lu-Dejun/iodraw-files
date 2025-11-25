@@ -243,16 +243,15 @@
         <mxCell id="1lQ-2F_arc89EmAmltaY-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#808080;" edge="1" parent="1" source="1lQ-2F_arc89EmAmltaY-98" target="1lQ-2F_arc89EmAmltaY-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1lQ-2F_arc89EmAmltaY-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.617;entryY=-0.066;entryDx=0;entryDy=0;strokeColor=#808080;entryPerimeter=0;" edge="1" parent="1" source="1lQ-2F_arc89EmAmltaY-104" target="1lQ-2F_arc89EmAmltaY-98">
+        <mxCell id="1lQ-2F_arc89EmAmltaY-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" edge="1" parent="1" source="1lQ-2F_arc89EmAmltaY-104">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1255" y="340" />
-              <mxPoint x="420" y="340" />
-              <mxPoint x="420" y="320" />
+              <mxPoint x="1255" y="320" />
               <mxPoint x="330" y="320" />
               <mxPoint x="330" y="360" />
               <mxPoint x="428" y="360" />
             </Array>
+            <mxPoint x="350" y="385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1lQ-2F_arc89EmAmltaY-97" value="" style="group" vertex="1" connectable="0" parent="1">
